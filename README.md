@@ -2,8 +2,8 @@
 
 ## Student Information
 Full Name: JOHN MICHAEL C. GRANA
-\nStudent Number: 202402544
-\nCourse, Year & Section: BSCS 2-1
+Student Number: 202402544
+Course, Year & Section: BSCS 2-1
 
 ## Description
 This laboratory exercise focuses on the advanced queries of MySQL. 
